@@ -12,20 +12,16 @@ Welcome to my GitHub profile! I'm a Business Analytics student and AI engineerin
 - **Data Analysis & Visualization:** Power BI, Pandas, NumPy  
 - **Tools:** Git, Docker
 
-## Projects & Experience
+## Projects 
 - **Recommendation Systems & Object Detection:**  
-  At my internship, I’m developing cutting-edge recommendation systems and object detection models using deep learning techniques. 🎯🏢  
-- **Facial Recognition Attendance System:**  
-  Developed a real-time system using OpenCV that converts facial features into unique "faceprints" for secure attendance tracking.
+  At my internship, I’m developing cutting-edge recommendation systems and object detection models using deep learning techniques. 🎯
 - **RESTful API Development:**  
   Building secure APIs with Fast API and Flask, integrating external data sources with robust JWT authentication.
-- **Churn Analysis with Power BI:**  
-  Analyzed extensive datasets to uncover customer behavior patterns and created interactive dashboards for actionable insights.
-- **Entrepreneurship in E-commerce:**  
-  Successfully managed ventures by applying data-driven strategies to enhance engagement and drive growth.
+- **Facial Recognition Attendance System:**  
+  Developed a real-time system using OpenCV that converts facial features into unique "faceprints" for secure attendance tracking.
 
 ## Certifications
-- **Fast API Certification**  
+- Fast API Certification (DataCamp) 
 - AI Fundamentals (DataCamp)  
 - Data Analyst with Python (DataCamp)  
 - Machine Learning Fundamentals (DataCamp)  
