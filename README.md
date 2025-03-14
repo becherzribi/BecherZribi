@@ -59,13 +59,6 @@ Secure system using OpenCV for real-time attendance tracking with unique "facepr
 - Power BI Fundamentals — DataCamp
 - AI Fundamentals — DataCamp
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🌐 Languages
 
 - 🇹🇳 Arabic (Native)
@@ -84,9 +77,4 @@ Secure system using OpenCV for real-time attendance tracking with unique "facepr
   
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
