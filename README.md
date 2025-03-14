@@ -80,7 +80,7 @@ Secure system using OpenCV for real-time attendance tracking with unique "facepr
   [![Email](https://img.shields.io/badge/Email-zribibecher.tn%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:zribibecher.tn@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-becher--zribi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/becher-zribi)
   [![Phone](https://img.shields.io/badge/Phone-%2B216%2020%20399%20216-green?style=for-the-badge&logo=whatsapp)](tel:+21620399216)
-  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/becherzribibecherzribi/raw/main/Becher_Zribi_Resume.pdf)
+  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)][(https://github.com/becherzribibecherzribi/raw/main/Becher_Zribi_Resume.pdf)](https://github.com/becherzribi/BecherZribi/blob/61e73cded124d20d1bd985b0d0a266f05d7f8ab3/Becher_Zribi_Resume.pdf)
   
 </div>
 
