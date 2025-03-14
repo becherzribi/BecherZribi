@@ -1,37 +1,92 @@
-# Hi, I'm Becher Zribi 👋
+# Hi there, I'm Becher Zribi 👋
 
-Welcome to my GitHub profile! I'm a Business Analytics student and AI engineering enthusiast dedicated to transforming data into intelligent solutions. I specialize in leveraging modern AI and deep learning tools to create impactful, real-world applications.
+<div align="center">
+  <img src="https://your-terminal-animation.gif" alt="Terminal Animation" width="700px" />
+</div>
 
-## About Me
-- **AI Engineering Focus:** Merging a strong analytical background with advanced AI tools to solve complex challenges.
+## 🚀 About Me
 
-## Skills & Technologies
-- **Programming Languages:** Python, JavaScript, SQL  
-- **AI & Deep Learning:** TensorFlow, PyTorch, Scikit-Learn, OpenCV 🔍  
-- **Web & API Development:** Fast API, Flask, RESTful API design, JWT Authentication  
-- **Data Analysis & Visualization:** Power BI, Pandas, NumPy  
-- **Tools:** Git, Docker
+Business Analytics & AI Development Specialist with expertise in data science, machine learning, and business intelligence. Currently pursuing a Bachelor's degree in Business Administration with a major in Business Analytics and a minor in Information Technology at Tunis Business School.
 
-## Projects 
-- **Recommendation Systems & Object Detection:**  
-  At my internship, I’m developing cutting-edge recommendation systems and object detection models using deep learning techniques. 🎯
-- **RESTful API Development:**  
-  Building secure APIs with Fast API and Flask, integrating external data sources with robust JWT authentication.
-- **Facial Recognition Attendance System:**  
-  Developed a real-time system using OpenCV that converts facial features into unique "faceprints" for secure attendance tracking.
+## 💻 Technical Skills
 
-## Certifications
-- Fast API Certification (DataCamp) 
-- AI Fundamentals (DataCamp)  
-- Data Analyst with Python (DataCamp)  
-- Machine Learning Fundamentals (DataCamp)  
-- Power BI Fundamentals (DataCamp)
+<div align="center">
+  
+  | Data Science & Programming | Data Analysis | Machine Learning | Web Development |
+  |---------------------------|--------------|-----------------|-----------------|
+  | Python                    | Excel        | Supervised Learning | Flask        |
+  | Pandas                    | Power BI     | Unsupervised Learning | Docker      |
+  | NumPy                     | Google Sheets | Deep Learning    | REST APIs      |
+  | Scikit-Learn              | Data Cleaning | Model Evaluation | SQLAlchemy     |
+  | TensorFlow                | Statistical Analysis |           | Java           |
+  | PyTorch                   |              |                  |                 |
+  | SQL                       |              |                  |                 |
+  | MongoDB                   |              |                  |                 |
+  
+</div>
 
-## Learning & Future Endeavors
-- **OpenAI Integration:** Constantly exploring how advanced AI models can be incorporated into innovative applications to drive transformative solutions.
+## 🔍 Projects
 
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/becher-zribi-026a8933a/)  
-- Email: zribibecher.tn@gmail.com
+### Marketing Mix Modelling System
+Data analysis system in Java using OOP principles with data ingestion and preprocessing modules for CSV, Excel, and databases.
 
-Feel free to explore my repositories to see how I blend business analytics with AI engineering to drive forward-thinking solutions.
+### RESTful API with Flask
+API with JWT authentication, external data sources integration, and scalable backend using SQLAlchemy.
+
+### Churn Analysis with Power BI
+Analyzed 6,500+ customer records to identify patterns and created interactive dashboards for churn metrics.
+
+### Facial Recognition Attendance System
+Secure system using OpenCV for real-time attendance tracking with unique "faceprints" for verification.
+
+## 🏢 Experience
+
+- **Data Analyst Intern** @ Ominet (2024)
+- **Financial Analyst Intern** @ GCT (2023)
+- **Entrepreneur** @ ThriftHome and PolgaShop (2020-Present)
+- **Event Manager** @ Job Fair TBS (2021-2022)
+
+## 🎓 Education
+
+- **Bachelor of Science in Business Administration**
+  - Tunis Business School (Since 2021)
+  - Major in Business Analytics, Minor in Information Technology
+
+## 📜 Certifications
+
+- Data Analyst with Python — DataCamp
+- Machine Learning Fundamentals — DataCamp
+- Power BI Fundamentals — DataCamp
+- AI Fundamentals — DataCamp
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌐 Languages
+
+- 🇹🇳 Arabic (Native)
+- 🇬🇧 English (Advanced)
+- 🇫🇷 French (Intermediate)
+- 🇩🇪 German (Beginner)
+
+## 📫 Contact Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-zribibecher.tn%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:zribibecher.tn@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-becher--zribi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/becher-zribi)
+  [![Phone](https://img.shields.io/badge/Phone-%2B216%2020%20399%20216-green?style=for-the-badge&logo=whatsapp)](tel:+21620399216)
+  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/main/Becher_Zribi_Resume.pdf)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
